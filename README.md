@@ -1,3 +1,9 @@
+[![make.fun competition](https://make.fun/badge/news-image-20261120.svg)](https://make.fun/bounty/news-image-20261120)
+[![make.fun rank](https://make.fun/badge/news-image-20261120/ZEMOMED/makefun-news-20261120/rank.svg)](https://make.fun/bounty/news-image-20261120)
+[![make.fun reward](https://make.fun/badge/news-image-20261120/ZEMOMED/makefun-news-20261120/reward.svg)](https://make.fun/bounty/news-image-20261120)
+
+Entry for the [make.fun news image bounty](https://make.fun/bounty/news-image-20261120).
+
 # The World on November 20
 
 Editorial AI-generated illustration of the November 20, 2026 news cycle.
