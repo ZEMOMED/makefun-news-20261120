@@ -1,0 +1,6 @@
+{
+  "name": "makefun-news-image",
+  "private": true,
+  "type": "commonjs",
+  "scripts": { "start": "node main.ts" }
+}
